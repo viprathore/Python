@@ -1,0 +1,46 @@
+{
+  "status": "done",
+  "publicPath": "/static/",
+  "chunks": {
+    "app": [
+      {
+        "name": "app/app.chunk.js",
+        "publicPath": "/static/app/app.chunk.js",
+        "path": "/app/app/build/app/app.chunk.js"
+      }
+    ],
+    "runtime": [
+      {
+        "name": "app/runtime.js",
+        "publicPath": "/static/app/runtime.js",
+        "path": "/app/app/build/app/runtime.js"
+      }
+    ],
+    "styles": [
+      {
+        "name": "app/styles.chunk.css",
+        "publicPath": "/static/app/styles.chunk.css",
+        "path": "/app/app/build/app/styles.chunk.css"
+      },
+      {
+        "name": "app/styles.chunk.js",
+        "publicPath": "/static/app/styles.chunk.js",
+        "path": "/app/app/build/app/styles.chunk.js"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "app/vendors.chunk.css",
+        "publicPath": "/static/app/vendors.chunk.css",
+        "path": "/app/app/build/app/vendors.chunk.css"
+      },
+      {
+        "name": "app/vendors.chunk.js",
+        "publicPath": "/static/app/vendors.chunk.js",
+        "path": "/app/app/build/app/vendors.chunk.js"
+      }
+    ]
+  },
+  "startTime": 1675690405016,
+  "endTime": 1675690409444
+}
